@@ -1,0 +1,17 @@
+#!/usr/bin/env python
+
+import random
+
+
+def card_deck():
+    type_rank = ('A', 'K', 'Q', 'J', 'T', '9', '8', '7', '6', '5', '4', '3', '2')
+    type_suit = ('spades', 'clubs', 'hearts', 'diamonds')
+    cards = []
+    for suit in range(4):
+        for rank in range(13):
+            create_card = type_rank[rank] + 'of' + type_suit[suit]
+            cards.append(create_card)
+        print cards
+        return cards
+
+card_deck()
