@@ -3,15 +3,37 @@
 import random
 
 
-def card_deck():
+class deck(object):
     type_rank = ('A', 'K', 'Q', 'J', 'T', '9', '8', '7', '6', '5', '4', '3', '2')
     type_suit = ('spades', 'clubs', 'hearts', 'diamonds')
     cards = []
-    for suit in range(4):
-        for rank in range(13):
-            create_card = type_rank[rank] + 'of' + type_suit[suit]
-            cards.append(create_card)
-        print cards
-        return cards
+    for type_suit in range(4):
+        for type_rank in range(13):
+            cards = type_suit.strip() + ' of ' + type_rank[-1]
 
-card_deck()
+    def get_cards(self):
+        cards = self.cards()
+        deck = random.shuffle(cards)
+        print deck
+        return deck
+
+
+def deal_cards(num_user):
+#    hands = [[] * num_user]
+    cards_per_hand = len(deck) / num_user
+    return deck[:cards_per_hand], deck[cards_per_hand:]
+
+
+def main():
+    deal_cards(2)
+
+
+##!/usr/bin/env python
+#import random
+
+#rank = random.choice(('A', '2', '3', '4', '5', '6', '7', '8', '9', 'T', 'J', 'Q', 'K'))
+#suit = random.choice(('clubs', 'diamonds', 'hearts', 'spades'))
+#cards = random.choice(rank + ' of ' + suit)
+
+
+#print deck

@@ -3,31 +3,51 @@
 import random
 from random import choice
 
-value = ['A', 'K', 'Q', 'J', 'T', '9', '8', '7', '6', '5', '4', '3', '2']
-deck = value * 4
+card_faces = ['A', 'K', 'Q', 'J', 'T', '9', '8', '7', '6', '5', '4', '3', '2']
+# values of the elements
+A = 14
+K = 13
+Q = 12
+J = 11
+T = 10
+
+#spade heart diamond clubs
+deck = card_faces * 4
 random.shuffle(deck)
 
 
-def card_face_value():
-    card_face = choice(value)
-    return card_face
-
-
-def deal(num_user):
+def deal_cards(num_user):
 #    hands = [[] * num_user]
     cards_per_hand = len(deck) / num_user
     return deck[:cards_per_hand], deck[cards_per_hand:]
 
 
-# def game_play_war():
+def split_hands(hands):
+#split the deck to each players hands
+    player1_hand, player2_hand = hands[0], hands[1]
+    return player1_hand, player2_hand
+
+def play(split_hands):
+
+    for player in split_hands
+        if card >= card
+
 
 
 def main():
 # pick user to go first
-    hands = deal(2)
-    for hand in hands:
-        user_hand = random.randrange(len(hand))
-    return user_hand.pop(hand)
+    hands = deal_cards(2)
+    split_hands(hands)
+
+
+
+
+#        hand = randrange(0, len(users))
+#        print users[hand]
+#        return users[hand]
+#    for user in users:
+#        choice(user)
+#        return hand
 
 #    print hands
 #    print len(hands[0])
