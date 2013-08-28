@@ -2,12 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b21c9059-b3f7-4628-b0a0-ad22b9c7beb4" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dictionaries/brandon.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex1.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex2.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex3.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex3_a.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/war_card_game.py" afterPath="$PROJECT_DIR$/war_card_game.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chess.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex10.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex11.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex11_a.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex12.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex4.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex5.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex7.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex8.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex9.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="trunks2.iws" />
@@ -18,6 +23,16 @@
     <file path="/ex2.py" changelist="b21c9059-b3f7-4628-b0a0-ad22b9c7beb4" time="1377607223709" ignored="false" />
     <file path="/ex3.py" changelist="b21c9059-b3f7-4628-b0a0-ad22b9c7beb4" time="1377608892451" ignored="false" />
     <file path="/ex3_a.py" changelist="b21c9059-b3f7-4628-b0a0-ad22b9c7beb4" time="1377608845835" ignored="false" />
+    <file path="/ex4.py" changelist="b21c9059-b3f7-4628-b0a0-ad22b9c7beb4" time="1377631950643" ignored="false" />
+    <file path="/ex5.py" changelist="b21c9059-b3f7-4628-b0a0-ad22b9c7beb4" time="1377637739914" ignored="false" />
+    <file path="/chess.py" changelist="b21c9059-b3f7-4628-b0a0-ad22b9c7beb4" time="1377653522324" ignored="false" />
+    <file path="/ex6.py" changelist="b21c9059-b3f7-4628-b0a0-ad22b9c7beb4" time="1377654474150" ignored="false" />
+    <file path="/ex7.py" changelist="b21c9059-b3f7-4628-b0a0-ad22b9c7beb4" time="1377655232771" ignored="false" />
+    <file path="/ex8.py" changelist="b21c9059-b3f7-4628-b0a0-ad22b9c7beb4" time="1377655546605" ignored="false" />
+    <file path="/ex9.py" changelist="b21c9059-b3f7-4628-b0a0-ad22b9c7beb4" time="1377655946843" ignored="false" />
+    <file path="/ex10.py" changelist="b21c9059-b3f7-4628-b0a0-ad22b9c7beb4" time="1377656276696" ignored="false" />
+    <file path="/ex11.py" changelist="b21c9059-b3f7-4628-b0a0-ad22b9c7beb4" time="1377657439273" ignored="false" />
+    <file path="/ex11_a.py" changelist="b21c9059-b3f7-4628-b0a0-ad22b9c7beb4" time="1377657900808" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,44 +51,7 @@
     <favorites_list name="trunks2" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="ex1.py" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/ex1.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="0" selection-start="222" selection-end="222" vertical-scroll-proportion="0.4722222">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ex2.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ex2.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="6" selection-start="109" selection-end="109" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ex3.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ex3.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="29" selection-start="506" selection-end="506" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ex3_a.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ex3_a.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="0" selection-start="123" selection-end="123" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -106,14 +84,23 @@
         <option value="$PROJECT_DIR$/ex2.py" />
         <option value="$PROJECT_DIR$/ex3_a.py" />
         <option value="$PROJECT_DIR$/ex3.py" />
+        <option value="$PROJECT_DIR$/ex4.py" />
+        <option value="$PROJECT_DIR$/ex5.py" />
+        <option value="$PROJECT_DIR$/chess.py" />
+        <option value="$PROJECT_DIR$/ex6.py" />
+        <option value="$PROJECT_DIR$/ex7.py" />
+        <option value="$PROJECT_DIR$/ex8.py" />
+        <option value="$PROJECT_DIR$/ex9.py" />
+        <option value="$PROJECT_DIR$/ex10.py" />
+        <option value="$PROJECT_DIR$/ex11.py" />
+        <option value="$PROJECT_DIR$/ex11_a.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="919" />
-    <option name="y" value="668" />
-    <option name="width" value="1636" />
-    <option name="height" value="726" />
+    <option name="x" value="1089" />
+    <option name="width" value="1466" />
+    <option name="height" value="1395" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -182,8 +169,8 @@
       <PyConsoleSettings />
     </option>
   </component>
-  <component name="RunManager" selected="Python.ex3_a">
-    <configuration default="false" name="war_card_game" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.ex11_a">
+    <configuration default="false" name="ex8" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -196,13 +183,13 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="trunks2" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/war_card_game.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex8.py" />
       <option name="PARAMETERS" value="" />
       <RunnerSettings RunnerId="PythonRunner" />
       <ConfigurationWrapper RunnerId="PythonRunner" />
       <method />
     </configuration>
-    <configuration default="false" name="ex2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="ex9" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -215,13 +202,13 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="trunks2" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex9.py" />
       <option name="PARAMETERS" value="" />
       <RunnerSettings RunnerId="PythonRunner" />
       <ConfigurationWrapper RunnerId="PythonRunner" />
       <method />
     </configuration>
-    <configuration default="false" name="ex3" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="ex10" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -234,13 +221,13 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="trunks2" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex10.py" />
       <option name="PARAMETERS" value="" />
       <RunnerSettings RunnerId="PythonRunner" />
       <ConfigurationWrapper RunnerId="PythonRunner" />
       <method />
     </configuration>
-    <configuration default="false" name="ex3_a" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="ex11" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -253,7 +240,26 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="trunks2" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex3_a.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex11.py" />
+      <option name="PARAMETERS" value="" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="ex11_a" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="trunks2" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex11_a.py" />
       <option name="PARAMETERS" value="" />
       <RunnerSettings RunnerId="PythonRunner" />
       <ConfigurationWrapper RunnerId="PythonRunner" />
@@ -337,19 +343,21 @@
       <ConfigurationWrapper RunnerId="PythonRunner" />
       <method />
     </configuration>
-    <list size="5">
+    <list size="6">
       <item index="0" class="java.lang.String" itemvalue="Python.ex1" />
-      <item index="1" class="java.lang.String" itemvalue="Python.war_card_game" />
-      <item index="2" class="java.lang.String" itemvalue="Python.ex2" />
-      <item index="3" class="java.lang.String" itemvalue="Python.ex3" />
-      <item index="4" class="java.lang.String" itemvalue="Python.ex3_a" />
+      <item index="1" class="java.lang.String" itemvalue="Python.ex8" />
+      <item index="2" class="java.lang.String" itemvalue="Python.ex9" />
+      <item index="3" class="java.lang.String" itemvalue="Python.ex10" />
+      <item index="4" class="java.lang.String" itemvalue="Python.ex11" />
+      <item index="5" class="java.lang.String" itemvalue="Python.ex11_a" />
     </list>
     <recent_temporary>
-      <list size="4">
-        <item index="0" class="java.lang.String" itemvalue="Python.ex3_a" />
-        <item index="1" class="java.lang.String" itemvalue="Python.ex3" />
-        <item index="2" class="java.lang.String" itemvalue="Python.ex2" />
-        <item index="3" class="java.lang.String" itemvalue="Python.war_card_game" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.ex11_a" />
+        <item index="1" class="java.lang.String" itemvalue="Python.ex11" />
+        <item index="2" class="java.lang.String" itemvalue="Python.ex10" />
+        <item index="3" class="java.lang.String" itemvalue="Python.ex9" />
+        <item index="4" class="java.lang.String" itemvalue="Python.ex8" />
       </list>
     </recent_temporary>
   </component>
@@ -385,18 +393,18 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="919" y="668" width="1636" height="726" extended-state="0" />
-    <editor active="true" />
+    <frame x="1089" y="0" width="1466" height="1395" extended-state="0" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2700127" sideWeight="0.61619717" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.26994303" sideWeight="0.7259499" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25222364" sideWeight="0.61619717" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.38380283" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.27405012" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -472,52 +480,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/war_card_game.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="e#42#55#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gld_mv.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/try2">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gld_mv.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/war_card_game.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="31" column="0" selection-start="664" selection-end="664" vertical-scroll-proportion="0.9723247">
-          <folding>
-            <element signature="e#42#55#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="uml://Python/#C:/Users/brandon/Documents/GitHub/trunks2/ex1.py">
       <provider selected="true" editor-type-id="UmlEditorProvider">
         <state>
@@ -532,30 +494,107 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ex3_a.py">
+    <entry file="file://$PROJECT_DIR$/ex1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="0" selection-start="123" selection-end="123" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ex3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="29" selection-start="506" selection-end="506" vertical-scroll-proportion="0.0">
+        <state line="8" column="30" selection-start="221" selection-end="221" vertical-scroll-proportion="0.41975307">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ex2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="6" selection-start="109" selection-end="109" vertical-scroll-proportion="0.0">
+        <state line="3" column="6" selection-start="109" selection-end="109" vertical-scroll-proportion="0.1574074">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ex1.py">
+    <entry file="file://$PROJECT_DIR$/ex3.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="0" selection-start="222" selection-end="222" vertical-scroll-proportion="0.4722222">
+        <state line="19" column="29" selection-start="506" selection-end="506" vertical-scroll-proportion="0.4228395">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ex3_a.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="0" selection-start="123" selection-end="123" vertical-scroll-proportion="0.20987654">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ex4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="47" selection-start="578" selection-end="578" vertical-scroll-proportion="2.1377246">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ex5.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="26" column="30" selection-start="621" selection-end="621" vertical-scroll-proportion="0.50898206">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chess.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="0" selection-start="50" selection-end="50" vertical-scroll-proportion="0.28742516">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ex6.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="29" column="12" selection-start="655" selection-end="655" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ex7.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="32" selection-start="190" selection-end="190" vertical-scroll-proportion="0.09747706">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ex8.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="1" selection-start="353" selection-end="353" vertical-scroll-proportion="0.21444954">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ex9.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="3" selection-start="377" selection-end="377" vertical-scroll-proportion="0.25344038">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ex10.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="13" selection-start="254" selection-end="254" vertical-scroll-proportion="0.27293578">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ex11.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="1" selection-start="314" selection-end="314" vertical-scroll-proportion="0.23394495">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ex11_a.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="1" selection-start="196" selection-end="196" vertical-scroll-proportion="0.116972476">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ex12.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
