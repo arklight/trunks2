@@ -1,0 +1,8 @@
+export VISUAL='/usr/bin/vim'
+export SVN_EDITOR='/usr/bin/vim'
+alias vi='/usr/bin/vim'
+alias ssh='ssh -A -o StrictHostKeyChecking=no'
+
+HISTSIZE=9999999
+PROMPT_COMMAND='PS1="\[\e[36;1m\]\u@\[\e[32;1m\]\h \w \n-> \[\e[0m\]"'
+python ~/pirate.py

@@ -1,0 +1,40 @@
+set bg=dark
+filetype on
+filetype plugin on
+filetype indent on
+" whitespace
+set tabstop=4
+set shiftwidth=4
+set softtabstop=4
+set expandtab
+set autoindent
+set smartindent
+" line numbering
+set number
+set numberwidth=3
+
+set ruler
+
+set showmatch
+
+autocmd FileType text setlocal textwidth=78
+set backupdir=~/tmp,/tmp
+set directory=~/tmp,/tmp
+syntax enable
+set t_Co=256
+let g:zenburn_color_also_Ignore = 1
+let g:zenburn_alternate_Visual = 1
+" statusline settings {{{
+
+set laststatus=2 " always show status line
+set statusline=
+set statusline=[%n][%<%f]%h%m%r
+set statusline+=%#String#
+if &filetype == 'python'
+set statusline+=%{python#statusline()}
+endif
+set statusline+=%*
+set statusline+=%=    " everything after this is right justified
+set statusline+=%#StatusLineNC#%y[%{&ff}:%{&fenc}]%*
+set statusline+=\ %-8.(%l,%c%V%)\ %P
+" }}}

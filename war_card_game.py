@@ -5,11 +5,8 @@ from random import choice
 
 card_faces = ['A', 'K', 'Q', 'J', 'T', '9', '8', '7', '6', '5', '4', '3', '2']
 # values of the elements
-A = 14
-K = 13
-Q = 12
-J = 11
-T = 10
+# build dict for this and map values to them
+
 
 #spade heart diamond clubs
 deck = card_faces * 4
@@ -27,11 +24,11 @@ def split_hands(hands):
     player1_hand, player2_hand = hands[0], hands[1]
     return player1_hand, player2_hand
 
+
 def play(split_hands):
 
-    for player in split_hands
+    for player in split_hands:
         if card >= card
-
 
 
 def main():
